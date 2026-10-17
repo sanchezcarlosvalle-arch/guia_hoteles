@@ -1,0 +1,29 @@
+{
+  "name": "hoteles_guia",
+  "version": "1.0.0",
+  "description": "el primer proyecto de mi persona de node.js",
+  "homepage": "https://bitbucket.org/otiliaro2002/hoteles_guia#readme",
+  "bugs": {
+    "url": "https://bitbucket.org/otiliaro2002/hoteles_guia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://otiliaro2002-admin@bitbucket.org/otiliaro2002/hoteles_guia.git"
+  },
+  "license": "ISC",
+  "author": "Osmany Sanchez",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^6.0.0-alpha.1",
+    "jquery": "^4.0.0",
+    "popper.js": "^1.16.1"
+  }
+}
